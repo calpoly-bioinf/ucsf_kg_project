@@ -1,0 +1,130 @@
+prefLabel,id
+IPSS-R Risk Category Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162681
+Serum CEA Level Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162046
+Serum CA 19-9 Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162049
+Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54722
+Low Platelet Count,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162108
+Low Mitosis-Karyorrhexis Index,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118955
+Low Hemoglobin Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162106
+Value Below Reference Range,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78801
+Low Calcium Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162104
+"Malignant Germ Cell International Collaborative Risk Classification, Low",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C177354
+IPSS Risk Category Low,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C139301
+Low LDH Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162102
+Low Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129476
+Low Leukocyte Count,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162110
+Low Grade,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14161
+"Back Pain, CTCAE 3.0",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C56010
+"Back Pain, CTCAE 5.0",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C146739
+Back Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41830
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Significant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41130
+Statistical Significance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61040
+Patient Problem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54027
+Medical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25261
+Problem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28020
+Prevalence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17010
+Comprehensive Score for Financial Toxicity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121814
+Cost,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69088
+Acute Graft Versus Host Disease,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4980
+Acute,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14140
+Inpatient Acute Care Encounter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150754
+Resolution,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75906
+RESOLVE Multishot Diffusion Weighted Echoplanar Imaging,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C172054
+Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45559
+Reported Event Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82571
+Term Birth,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114093
+Term,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25703
+Function,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25518
+Functional Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75924
+Arginine/Omega-3 Fatty Acids/Nucleotides Oral Supplement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62534
+Impact,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122929
+Minority Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16863
+Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960
+Experience,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54627
+Disability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21007
+Paper Dosing Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82484
+Possess,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89277
+Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282
+New,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25586
+New Lesion Identification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94522
+Newar Language,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154052
+Technique,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16847
+Subject Risk,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142718
+Risk,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17102
+Duration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330
+Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207
+Week,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29844
+Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688
+Baseline Epoch,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125938
+Baseline,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25213
+Next,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53286
+Enrollment Period,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154623
+Enrollment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37948
+Follow-Up Information,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156846
+Clinical Study Follow-up,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99158
+Follow-Up Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53579
+Follow-Up,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16033
+Follow,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64950
+Assessment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25217
+Physical Examination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20989
+Progress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25630
+Performed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38000
+Month,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29846
+Active,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45329
+FDA Establishment Activity Terminology,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123268
+Biochemical Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45420
+Physical Activity Measurement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120914
+Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431
+Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25200
+Microtubule Associated Protein,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16861
+Functional Map,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43434
+System Support Mapping,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148263
+Mean Arterial Pressure,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49679
+MAP Regimen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67339
+MUTYH-Associated Polyposis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96520
+Myositis Activities Profile,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121358
+Map,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43433
+Neural Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17429
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363
+Consortium or Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19975
+Network Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50081
+Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61377
+Outcome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20200
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474
+Correlation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48834
+True,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68850
+Prediction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54156
+Generalized,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63764
+Safety Reporting Documentation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115727
+Health,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25178
+Mental Health,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93187
+Entered,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37949
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Apply,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113519
+Prognostic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25263
+Therapeutic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25277
+Presentation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61388
+Tumor Infiltrating Lymphocyte is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162607
+Ulceration is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C160707
+Lymphatic Invasion is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162605
+MGMT Gene Promoter Methylation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153562
+Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25626
+Extranodal Involvement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117309
+Tumor Necrosis Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C160703
+Macroscopic Satellite Nodule is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159277
+Myometrial Invasion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159241
+Tumor Cell Necrosis is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162606
+Tumor Regression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C160836
+MLH1 Gene Promoter Hypermethylation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158920
+Radial-Femoral Lag Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168417
+Perineural Invasion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48260

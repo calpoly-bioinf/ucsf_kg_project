@@ -1,0 +1,105 @@
+prefLabel,id
+Use,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95018
+Use,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25340
+Pain Assessment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20992
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Assessment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25217
+Physical Examination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20989
+Adverse Event Definitely Related to Intervention,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53260
+Certain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107561
+Neuropathic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96210
+Information,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48191
+Protein Turn,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47946
+Advanced,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25411
+Technique,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16847
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Presentation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61388
+Tumor Infiltrating Lymphocyte is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162607
+Ulceration is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C160707
+Lymphatic Invasion is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162605
+MGMT Gene Promoter Methylation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153562
+Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25626
+Extranodal Involvement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117309
+Tumor Necrosis Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C160703
+Macroscopic Satellite Nodule is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159277
+Myometrial Invasion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159241
+Tumor Cell Necrosis is Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162606
+Tumor Regression,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C160836
+MLH1 Gene Promoter Hypermethylation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158920
+Radial-Femoral Lag Present,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168417
+Perineural Invasion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48260
+Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536
+Clinical Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15206
+Off Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29851
+DICOM Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63537
+Study Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45319
+Employed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25172
+Artificial,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61464
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25424
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C176499
+Specified,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38024
+Symptomatic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25269
+Rheumatic Fever Symptom,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168422
+Kawasaki Disease Symptom,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168286
+Basis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25430
+Base,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48055
+Scientific Equipment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84337
+Tool,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C172800
+Performed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38000
+Clinical Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15783
+Clinical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25398
+Clinical Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123619
+Clinical Batch,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133992
+Traditional Education,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159512
+Statistics,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17167
+Form,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19464
+Formation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25513
+Established,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71155
+Accepted,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62559
+Purpose,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25634
+Comparison,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49156
+Confirmatory Test,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C181549
+Experience,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54627
+Single Metastasis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180356
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48440
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150721
+Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960
+Negation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594
+NON Mouse,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14460
+Accuracy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49145
+Analytical Procedure Accuracy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134242
+Collected By,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45262
+Obtain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C52349
+Anus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43362
+Slight,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103807
+Slightly Agree,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125571
+Interferes Slightly,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C167318
+Slightly Able,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129950
+High,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25227
+CDISC Relationship Class,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103376
+Silo,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54175
+Data Set,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47824
+Current,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25471
+Electrical Current,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48434
+Offer,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166358
+Duration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330
+Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207
+European,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43851
+International,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25541
+NCI Thesaurus Association,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43646
+Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25648
+Chemical Association,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73471
+Association Class,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45672
+Scientific Publication,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19026
+Publication,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48669

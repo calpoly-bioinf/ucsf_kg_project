@@ -1,0 +1,113 @@
+prefLabel,id
+Recent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25280
+Human,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14225
+Neuroimaging,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C173635
+Possess,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89277
+Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363
+Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25375
+Reported Information,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C188308
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Useful,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107498
+Brain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12439
+CDISC Relationship Class,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103376
+Stimulus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41210
+Intensity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25539
+Do,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86066
+Address,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25407
+Address,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86945
+Central Nervous System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12438
+Center,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25445
+Conventional Osteosarcoma,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35870
+Multi-Institutional Clinical Trial,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16104
+Central Review,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C185326
+Nervous System Finding,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36280
+Nervous System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12755
+Nervous,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25584
+Nervousness,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74532
+System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700
+Drug Delivery System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17423
+"System, LOINC Axis 4",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40568
+Drug Delivery System Category,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154465
+System Dosing Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C149975
+Device System,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50311
+Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536
+Clinical Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15206
+Off Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29851
+DICOM Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63537
+Study Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45319
+Multiple,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17648
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554
+Story,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87192
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Clinical Trial,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71104
+Estrus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C186249
+Variability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85443
+Object Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43570
+Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25648
+Concept Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42727
+Cross,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81171
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25424
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C176499
+Potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62230
+Multiple Metastases,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180354
+FOXD3 wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92175
+Effect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25492
+Ascend,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61465
+Biochemical Pathway,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20633
+Pathway,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54214
+Anterior,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25231
+Central Lobe,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32278
+TCEA1 wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97823
+Medial,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25232
+Thalamus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12459
+Subcortical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165870
+Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281
+Cluster Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63918
+Cluster,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43418
+Function,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25518
+Functional Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75924
+Inclusive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166400
+Next,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53286
+Cerebellum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12445
+Increase,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25533
+Increased,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C164135
+Focal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28224
+Localized,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14146
+Adverse Event Definitely Related to Intervention,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53260
+Identification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25737
+Double Immunodiffusion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C163546
+Deidentification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45970
+Clinical Trial Final Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115575
+Input,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47905
+Prediction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54156
+Prefrontal Cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154779
+Bark,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79615
+Cerebral Cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12443
+Cerebellar Cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49216
+Dorsolateral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90376
+Motor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28367
+Motor Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50077
+Likely,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85550
+Negation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594
+NON Mouse,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14460
+Contribution,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61412
+Attention Concentration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41209
+Decision,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53285
+Overall,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25605
+Overall Pooled Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165858
+International,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25541
+NCI Thesaurus Association,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43646
+Chemical Association,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73471
+Association Class,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45672
+Scientific Publication,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19026
+Publication,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48669

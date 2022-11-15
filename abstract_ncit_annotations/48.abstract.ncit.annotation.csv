@@ -1,0 +1,111 @@
+prefLabel,id
+Oral Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78509
+"Oral Pain, CTCAE 5.0",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C146627
+Oral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25311
+Oral Dosage Form,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42744
+Oral Route of Administration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38288
+Oral Cavity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12421
+Pain Tolerance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21086
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Immunologic Tolerance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17712
+Tolerance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43414
+Drug Tolerance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21130
+Notable,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126374
+Severity One Out of Three,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C147499
+Qualitative Concept,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92722
+Answer,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49149
+Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25755
+Responsive Disease,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165206
+Communication Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82658
+Disease Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50995
+Single Metastasis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180356
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48440
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150721
+Capsaicin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C339
+Concentration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185
+Attention Concentration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41209
+Able to Concentrate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105891
+Pattern,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25336
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554
+Story,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87192
+Biological Detection Test,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174330
+Detection,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16210
+Delta,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54126
+Change,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25446
+Integrator Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50005
+Cumulative,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25470
+Irritation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77966
+Have Vaginal Irritation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C183352
+Irritation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50624
+Have Vulvar Irritation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C183358
+Sum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25697
+Underlying,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154417
+Duration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330
+Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207
+Stimulus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41210
+Quantitative Concept,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70766
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383
+Biological Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80519
+Model Number,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285
+Ascend,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61465
+Stair,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81011
+Increment,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47882
+Step,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48176
+Treatment Step,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16154
+Part Per Million,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48523
+Persistent Pupillary Membrane,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C161555
+Presentation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61388
+Follow-Up,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16033
+Immediately,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64597
+Explanation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86073
+Greece,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16645
+Descend,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61573
+Next,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53286
+Subjective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88182
+Burn,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34441
+"Burn, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57900
+Rating,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77538
+Minute,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48154
+Minute Unit of Plane Angle,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68860
+SERPINC1 wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104682
+Cluster Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63918
+Cluster,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43418
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Identification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25737
+Previous,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25627
+Daily Living,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142468
+Classification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25161
+Provide,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80514
+Description,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25365
+Product Description/Appearance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C138990
+Shared,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38019
+Common,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43461
+Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536
+Clinical Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15206
+Off Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29851
+DICOM Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63537
+Study Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45319
+Examined,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25500
+Dependent for Toilet Use,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131934
+Conditional,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63905
+Dependent Bathing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131954
+Dependent Dressing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131948
+Behavior,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16326
+Temporal Anatomic Qualifier,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117754
+Temporal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73990
+Comprehension,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86022
+Person,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25190
+Clinical Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15783
+Clinical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25398
+Clinical Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123619
+Clinical Batch,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133992

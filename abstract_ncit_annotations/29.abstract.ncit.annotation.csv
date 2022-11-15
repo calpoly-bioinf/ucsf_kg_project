@@ -1,0 +1,71 @@
+prefLabel,id
+Skin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Shared,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38019
+Common,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43461
+Laser-Induced Fluorescence Endoscopy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20203
+Life,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142142
+Underlying,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154417
+Physical Examination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20989
+Physical Restraint,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158344
+Physical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25618
+Epidermal cGVHD Score 0,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158591
+Negative Surgical Margin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48621
+Modeling,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16063
+Limited a Lot,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C110983
+Limited Walking Ability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121435
+Limited Lifting Ability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121422
+Limited,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142988
+Paper Dosing Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82484
+Mathematical Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16870
+Mathematics,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16825
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383
+Biological Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80519
+Model Number,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285
+Myelin and Lymphocyte Protein,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C177105
+Malayalam Language,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154019
+Myocardin-Related Transcription Factor A,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97298
+CD8A wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104108
+MRTFA wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97297
+MAL Gene,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C177103
+Part Dosing Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48522
+Peripheral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25233
+Modulation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90063
+Stimulus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41210
+Energy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48058
+Overall Energy Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129698
+Electricity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61332
+Nerve,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12466
+Transmission,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71292
+Disease Transmission,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17214
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363
+Site,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37901
+Study Site,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80403
+What is the Site of the New Tumor Event,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156853
+Anatomic Site,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13717
+Viral Transduction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142787
+DNA Transduction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180568
+Spinal Cord,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12464
+Spinal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38026
+Cord,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61540
+Cord Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49890
+Brain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12439
+Perception,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16967
+Direct,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62254
+RELA Gene,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28646
+RELA wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53116
+Transcription Factor p65,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17686
+Concept Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42727
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554
+Story,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87192
+Character,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68805

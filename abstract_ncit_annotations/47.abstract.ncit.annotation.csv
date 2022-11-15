@@ -1,0 +1,139 @@
+prefLabel,id
+Object Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43570
+CDISC Relationship Class,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103376
+Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25648
+Concept Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42727
+Sleep,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73425
+Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960
+Chronic Graft Versus Host Disease,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4981
+Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141
+"Back Pain, CTCAE 3.0",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C56010
+"Back Pain, CTCAE 5.0",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C146739
+Back Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41830
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Collected Value,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C170548
+Collection,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25453
+Day,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25301
+Duration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330
+Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207
+Active,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45329
+FDA Establishment Activity Terminology,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123268
+Biochemical Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45420
+Physical Activity Measurement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120914
+Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431
+Data,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25474
+Follow-Up,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16033
+Minim,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48514
+Minute,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48154
+Minangkabau Language,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154027
+Minimum,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25570
+Hour,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25529
+Wrist Joint,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33894
+Accelerometer,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88166
+Dominant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25487
+Axillary Reverse Mapping,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157738
+Study Arm,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174447
+Arm,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32141
+Protocol Treatment Arm,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15538
+Armenia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16306
+Study Branch,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142701
+AKR1A1 wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112102
+Investigational Arm,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174266
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554
+Story,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87192
+BIC Regimen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C161933
+Imidazole Mustard,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2216
+Sample Mean,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71560
+Mean Based on Unspecified Calculation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C181249
+Arithmetic Mean,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53319
+Population Mean,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71570
+Calculation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54125
+Clinical Trial Period,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71737
+Period,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25616
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Computer Program,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17146
+Correlation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48834
+Performed,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38000
+Unable to Do,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121742
+Unable to Use Stairs,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131951
+Unable to Feed Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131937
+Significant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41130
+Statistical Significance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61040
+Difference,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46003
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25424
+Approach,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C176499
+Self-Organizing Map,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63920
+Self,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25200
+Microtubule Associated Protein,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16861
+Functional Map,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43434
+System Support Mapping,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148263
+Mean Arterial Pressure,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49679
+MAP Regimen,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67339
+MUTYH-Associated Polyposis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96520
+Myositis Activities Profile,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121358
+Map,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43433
+Somalia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17149
+EDQM-HC State of Matter Terminology,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150116
+Somali Language,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123791
+Neural Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17429
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363
+Consortium or Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19975
+Network Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50081
+Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61377
+Time Series,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C181915
+Image Series,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69225
+Series,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25674
+Recollect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122669
+Recall,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53609
+Veterinary Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53691
+Output,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47906
+Coordinate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44465
+Daytime,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64928
+Direct,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62254
+Next,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53286
+Chief Complaint Present at Night,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168166
+Night Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65001
+Variance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48918
+Sample Variance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71566
+Experience,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54627
+Large,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49508
+High,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25227
+Variability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85443
+Better,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71685
+Better than Others,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C138931
+Improved,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125459
+Pain Therapy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15180
+Study Control,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142703
+Control,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61299
+True Control Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99270
+Control Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28143
+Scientific Control,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64355
+Provide,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80514
+Microsatellite Stable,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131459
+Stability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54072
+Stable,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C30103
+Limited Walking Ability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121435
+Limited Lifting Ability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121422
+Limited,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142988
+Group Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42685
+User Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42684
+Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+Organism by Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C179770
+Population Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005
+Stage Grouping,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38027
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383
+Biological Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80519
+Model Number,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285
+Ability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78209
+Extract,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82948
+Extract Dosage Form,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42929

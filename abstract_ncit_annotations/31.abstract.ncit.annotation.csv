@@ -1,0 +1,132 @@
+prefLabel,id
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Nerve Damage,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50669
+Nerve,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12466
+Injury,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3671
+Neuropathic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96210
+Associated,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25281
+Maturation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17770
+Development Batch,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133991
+Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18732
+Development,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84377
+Biochemical Pathway,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20633
+Pathway,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54214
+Primary Cause of Death,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99531
+Primary,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25251
+Primary Lesion,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40558
+Primary Neoplasm,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8509
+Induction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61367
+Possess,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89277
+Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282
+Identification,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25737
+Unclear State of Matter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150000
+Molecular,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25574
+Sufficient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63351
+Cellularity Measurement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111153
+Cell,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508
+Computation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61298
+Computational Technique,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19233
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866
+Switch Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50199
+Normal Reference Range,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78727
+"Normal, Unit of Concentration",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48554
+Kurtzke Functional System Scores KFSS101 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182766
+Kurtzke Functional System Scores KFSS107 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182862
+Normal Precordial Palpation Finding,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168365
+Kurtzke Functional System Scores KFSS106 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182846
+Normal Male External Genitalia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168088
+Kurtzke Functional System Scores KFSS104 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182814
+Cytogenetic Abnormalities Not Detected,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158864
+Normal Skin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74593
+Tissue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
+How Often Felt Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C140746
+Normal Gait,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121439
+Kurtzke Functional System Scores KFSS105 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182830
+Normal Appearance of Extremities,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168360
+TP53 Gene Mutation Negative,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148092
+Kurtzke Functional System Scores KFSS103 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182800
+Normal Abdomen on Visual Inspection,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168359
+Normal Point of Maximum Impulse,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168364
+Normal Chest Appearance,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168363
+Serum CA 19-9 Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162048
+Normal Abdomen on Palpation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168358
+Serum CEA Level Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162045
+Normal Immune Presence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159472
+Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14165
+Normal Capillary Refill Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168362
+Kurtzke Functional System Scores KFSS102 Original Result - Normal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C182782
+Pattern,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25336
+Characterization,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62606
+Rheumatic Fever Symptom Onset Date,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168424
+Onset,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25279
+Parameter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44175
+Programming Parameter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48913
+Population Parameter,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71569
+Membrane Potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82324
+Membrane Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50046
+Membrane,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12749
+Potential,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62230
+Pathologic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25610
+Pathology,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18189
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Confirmation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25458
+Mechanism Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50285
+Mechanism,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25343
+Responsible Person,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25657
+Bifurcation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90367
+Bias,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28232
+"Reproductive Human Cells, Tissues, and Cellular and Tissue-Based Products from Known Donor to Directed Recipient",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133315
+Directed Blood Product Donation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133272
+FASTK wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51201
+Fasting,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63663
+Rapidly,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65069
+Fasting Status Indicator,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93566
+Slow,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64655
+Activation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64382
+Inactivation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C175900
+Single Metastasis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180356
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48440
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150721
+Equivalent Weight,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67273
+Equivalent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48793
+Combination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61517
+True Case Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99269
+Case,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49152
+Case Dosing Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62414
+Packaging Case,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43184
+Add,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64911
+"Attention Deficit Hyperactivity Disorder, Inattentive Type",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35092
+Offset,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47923
+Drug Interaction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54708
+Interaction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54216
+Initiation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47938
+Transcription Initiation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20147
+Critical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25467
+Factor,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25506
+Level,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25554
+Story,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87192
+Manifest,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C187058
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19398
+Complex Karyotype,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97138
+Complex Environmental Condition,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134028
+Complex Endometrial Hyperplasia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35423
+Complex Nodule Shape,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157677
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881
+Multiple Metastases,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180354
+Multiple,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17648
+Give,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64974
+Delta,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54126
+Change,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25446
+Degeneration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61557
+CDISC Relationship Class,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103376
+Important,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115916
+Importance Rating Score 0,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125543

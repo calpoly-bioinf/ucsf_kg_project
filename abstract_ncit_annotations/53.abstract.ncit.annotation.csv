@@ -1,0 +1,91 @@
+prefLabel,id
+Fibromyalgia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87497
+Genetic Syndrome Associated with Congenital Heart Defect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168217
+Syndrome,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28193
+CSF1R wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51347
+Usually,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114711
+Usual,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C102843
+Age,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150
+Subject Age,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69260
+Extensive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47863
+Chronic Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26940
+Chronic Graft Versus Host Disease,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4981
+Chronic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14141
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Disease or Disorder,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991
+Diagnosis Code,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154625
+Date of Diagnosis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C164339
+Diagnosis Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49653
+Diagnosis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220
+Negation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594
+NON Mouse,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14460
+Objective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49155
+Clinical Trial Objective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142450
+Objective,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88181
+Psychological,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94316
+Laboratory Procedure,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25294
+Calorie,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67194
+GOPC wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97547
+Candida albicans Measurement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C161404
+calorie,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67193
+Laboratory Data Domain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49592
+Laboratory,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37984
+Blood Products Laboratory Testing,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113077
+Test Dosing Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48545
+Test,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47891
+Test Name,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82541
+Evaluation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25214
+Stand Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50189
+Unsatisfactory,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126862
+Inadequate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69177
+Similarity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72665
+Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536
+Clinical Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15206
+Off Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29851
+DICOM Study,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63537
+Study Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45319
+Skin Response Domain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112420
+Global Response in Skin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159951
+Skin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470
+Answer,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49149
+Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25755
+Responsive Disease,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165206
+Communication Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82658
+Disease Response,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50995
+Solar Simulated Light,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123651
+University,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48647
+Faculty,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53281
+Medication,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C459
+Medicine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16833
+Physical Examination,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20989
+Physical Restraint,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158344
+Physical,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25618
+Rehabilitation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15315
+Clinic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51282
+Ambulatory Care Facility,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16281
+"Turkey, Poultry",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73855
+Turkey,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17222
+Patient,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960
+Diagnostic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25482
+Duration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330
+Time,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25207
+Control Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28143
+Study Control,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142703
+Control,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61299
+True Control Status,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99270
+Scientific Control,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64355
+Group Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42685
+User Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42684
+Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+Organism by Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C179770
+Population Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005
+Stage Grouping,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38027

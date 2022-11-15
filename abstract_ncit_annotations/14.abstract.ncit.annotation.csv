@@ -1,0 +1,142 @@
+prefLabel,id
+Neural Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17429
+Neural,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25363
+Consortium or Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19975
+Network Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50081
+Network,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61377
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16866
+Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43383
+Biological Model,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80519
+Model Number,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99285
+Proposed Substance Date Change,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C185188
+Acquisition,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43384
+Obtain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C52349
+"Pain by Anatomic Descriptor, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53837
+"Pain, CTCAE",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C143725
+Pain Distress,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124175
+Adverse Event Associated with Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53794
+Usual Severity Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125299
+Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3303
+Have Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91126
+Frequency of Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104600
+Feel Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141521
+How Much Distress Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125331
+Modeling,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16063
+Presentation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61388
+Basis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25430
+Base,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48055
+Calorie,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67194
+GOPC wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97547
+Candida albicans Measurement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C161404
+calorie,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67193
+Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25375
+Reported Information,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C188308
+Publication,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48471
+Unit of Measure,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25709
+Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44278
+Enzyme Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64778
+Unit,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68553
+Conclusive,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87050
+Evidence,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43583
+Reason,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25638
+Quantitative Concept,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70766
+Ascend,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61465
+Peripheral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25233
+Cell Count,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48938
+Cell,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508
+Spinal Cord,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12464
+Spinal,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38026
+Cord,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61540
+Cord Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49890
+Brain Stem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12441
+Brain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12439
+Scanning Transmission Electron Microscopy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21342
+Patient Reported Outcome Stem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142628
+Stem,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79676
+Thalamus,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12459
+Cerebral Cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12443
+Cerebral Hemisphere,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12351
+Bark,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79615
+Cerebellar Cortex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49216
+Involvement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25548
+Involved Anatomy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C183163
+Positive Surgical Margin,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48620
+Adjacent,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25408
+Lateral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25230
+Inhibition,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42791
+Possess,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89277
+Have,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101282
+Analysis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25391
+Information,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48191
+Characteristic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25447
+Adverse Event Definitely Related to Intervention,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53260
+Relationship,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25648
+Generation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88214
+Generation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48151
+Comparison,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49156
+Adaptation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158868
+"Effect, Appearance",http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71600
+Effect,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25492
+Outcome of Therapy,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18919
+Conduction,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61530
+Velocity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C179817
+Constant,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64638
+Threshold,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48228
+Computer Modeling,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16461
+Single Metastasis,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C180356
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48440
+Single,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150721
+Square Shape,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48350
+Pulse,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64713
+Pulse,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25749
+Pulse Rate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49676
+Periodic Report,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53578
+Stimulation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61406
+Apply,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113519
+Upper,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25355
+Upper Surface,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C187053
+Difference,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46003
+Equation,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41195
+Continue,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53279
+Active,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45329
+FDA Establishment Activity Terminology,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123268
+Biochemical Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45420
+Physical Activity Measurement,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120914
+Activity,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431
+Neuron,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12623
+Mating,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88194
+Posterior,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25622
+Group Object,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42685
+User Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42684
+Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+Organism by Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C179770
+Population Group,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005
+Stage Grouping,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38027
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19398
+Complex Karyotype,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97138
+Complex Environmental Condition,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134028
+Complex Endometrial Hyperplasia,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35423
+Complex Nodule Shape,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157677
+Complex,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47881
+Estimate,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25498
+Ventral,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45875
+Post,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38008
+Post Device,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50112
+Asparaginase/Prednisone/Vincristine,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C11554
+Somatic,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94322
+Sensory,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28259
+Academic Research Enhancement Awards (Area),http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18635
+Area,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25244
+Geographic Area,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16632
+FASTK wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51201
+Fasting,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63663
+Rapidly,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65069
+Fasting Status Indicator,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93566
+Slow,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64655
+Burning Chest Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C168488
+Burning Pain,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101172
+Smoking Method of Administration,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C149363
+Modality,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41147
+Touch,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38535
+Availability,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25429
+CD96 wt Allele,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157301
